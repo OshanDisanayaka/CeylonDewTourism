@@ -1,0 +1,292 @@
+/*Font for a headers*/
+.headerfont{
+    font-family: 'Kaushan Script', cursive;
+}
+
+/*Header title styles*/
+.headertitle{
+    font-family: 'Kaushan Script', cursive;
+}
+
+/*Font for a footer texts*/
+.footertext{
+    font-family: 'Josefin Slab', serif;
+    font-size: 17px;
+}
+
+/*Font for a footer texts*/
+.text{
+    font-family: 'Josefin Slab', serif;
+    font-size: 20px;
+}
+
+/*Carousel lable styles*/
+.CarouselLable{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+}
+
+/*Navigation changing styles*/
+.BgColour {
+    background-color: #0047AB;
+    opacity: 0.9;
+}
+
+/*Footer styles*/
+.footer{
+    background-color: #9fafca;
+}
+.footerfont{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+}
+.white{
+    color: white;
+}
+.removeline{
+    text-decoration: none;
+    color: black;
+}
+
+/*SVG styles*/
+.custom-shape-divider-bottom-1675852237 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+.custom-shape-divider-bottom-1675852237 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+.custom-shape-divider-bottom-1675852237 .shape-fill {
+    fill: #F1F1F1;
+}
+
+/*Explore SL picture*/
+.explore{
+    height:350px;
+    border-radius: 15px;
+}
+
+/*Font for a content headers*/
+.contentheader{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 45px;
+}
+
+/*Background color*/
+.BG{
+    background-color: #F1F1F1;
+}
+
+/*Why travel styles*/
+.box{
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+    transition: 1s;
+}
+.box:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.travelimgsize{
+    height: 180px;
+    width: 90%; 
+    object-fit: cover; 
+    border-radius: 15px;
+}
+
+/*Enjoy your tours styles*/
+.enjoy{
+    height: 300px;
+    width: 90%; 
+    object-fit: cover; 
+    border-radius: 15px;
+}
+
+/*Padding*/
+.padd{
+    padding: 20px;
+}
+
+
+/*Gallery page styles*/
+.gallery{
+    min-height: 100vh;
+    background:#eee;
+    padding-bottom: 100px;
+}
+.gallery .controls{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding:20px 0;
+    list-style: none;
+}
+.gallery .controls .buttons{
+    height:40px;
+    width: 140px;
+    background:#fff;
+    color:#666;
+    font-size: 20px;
+    line-height: 40px;
+    cursor: pointer;
+    margin:20px;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+    text-align: center;
+}
+.gallery .controls .buttons.active{
+    background:#0047AB;
+    color:#fff;
+}
+.gallery .image-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.gallery .image-container .image{
+    height:250px;
+    width: 350px;
+    overflow: hidden;
+    border:15px solid #fff;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+    margin: 20px;
+}
+.gallery .image-container .image img{
+    height: 100%;
+    width:100%;
+    object-fit: cover;
+}
+.gallery .image-container .image:hover img{
+    transform: scale(1.4);
+}
+
+/*Colour for why travel with us images*/
+.color1{
+    background-color: #ffffff;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+}
+
+
+/*Contact form styles*/
+.banner{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    position: relative;
+}
+.banner .waves{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
+.banner1{
+    background-color: #aa7938;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    position: relative;
+}
+.banner1 .waves1{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+}
+.box{
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+    transition: 1s;
+}
+.box:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 2px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+label {
+    padding: 2px 2px 2px 0;
+    display: inline-block;
+}
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+
+/*Contact page logo style*/
+.contactlogo{
+    height: 250px;
+}
+
+/*Colour the navigation selected button*/
+.navbtn{
+    background-color: #6699ff;
+    border-radius: 15px;
+}
+
+/*Mobile view navigation styles*/
+@media only screen and (max-width: 600px) {
+    .mobilenav {
+        background-color: #0047AB;
+    }
+    .none{
+        display: none;
+    }
+
+    .imageset{
+        margin-top: 55px;
+    }
+}
+
+/*Main image responsive styles*/
+.response{
+    width: 100%;
+    height: auto;
+}
