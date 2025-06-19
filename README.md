@@ -20,7 +20,7 @@ A responsive and user-friendly website developed for a Sri Lankan tourism busine
 For inquiries or feedback, please contact:
 - Oshan Dissanayaka
 - 📧 Email: odisanayaka@gmail.com
-- 📞 Phone: +94 70 490 5293
+- 📞 Phone: +371 22 451 720
 
 # License / Usage Notice
 This project was developed by Oshan Dissanayaka for a private client in the tourism industry in Sri Lanka.
