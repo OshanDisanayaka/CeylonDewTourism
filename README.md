@@ -22,7 +22,7 @@ For inquiries or feedback, please contact:
 - 📧 Email: odisanayaka@gmail.com
 - 📞 Phone: +371 22 451 720
 
-# License / Usage Notice
+## License / Usage Notice
 This project was developed by Oshan Dissanayaka for a private client in the tourism industry in Sri Lanka.
 
 The source code is shared on GitHub for portfolio and educational demonstration purposes only.
@@ -32,7 +32,7 @@ You may not copy, modify, redistribute, or use this code for any commercial proj
 
 If you'd like to use or reference any part of this code, please contact the developer directly.
 
-# Full Page Screenshots
+## Full Page Screenshots
 
 ![Image](https://github.com/user-attachments/assets/33a99bcc-f4e3-4d36-be88-ec8c588e294f)
 ![Image](https://github.com/user-attachments/assets/69bbec02-476a-4110-af2d-2e96d424a93c)
